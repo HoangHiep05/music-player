@@ -15,7 +15,7 @@ let allMusic = [
     src: "kiep-ma-hong"
   },
   {
-    name: "Duyên trời lấy 2",
+    name: "Duyên trời lấy 2 - Lofi",
     artist: "Chung Thanh Duy",
     img: "duyen-troi-lay-2",
     src: "duyen-troi-lay-2"
@@ -26,5 +26,10 @@ let allMusic = [
     img: "100-years-love",
     src: "100-years-love"
   },
-
+  {
+    name: "Chắc em đã quên rồi",
+    artist: "Quang Chợ Lầm",
+    img: "chac-em-da-quen-roi",
+    src: "chac-em-da-quen-roi"
+  },
 ];
