@@ -15,15 +15,21 @@ let allMusic = [
     src: "kiep-ma-hong"
   },
   {
-    name: "Duyên trời lấy 2 - Lofi",
-    artist: "Chung Thanh Duy",
-    img: "duyen-troi-lay-2",
-    src: "duyen-troi-lay-2"
-  },
-  {
-    name: "Chắc em đã quên rồi",
+    name: "Chắc em đã quên rồi - remix + speed up",
     artist: "Quang Chợ Lầm",
     img: "chac-em-da-quen-roi",
     src: "chac-em-da-quen-roi"
+  },
+  {
+    name: "Ánh sao và bầu trời - speed up",
+    artist: "##",
+    img: "anh-sao-va-bau-troi",
+    src: "anh-sao-va-bau-troi"
+  },
+  {
+    name: "Tình ca tình ca",
+    artist: "Kis",
+    img: "tinh-ca-tinh-ca",
+    src: "tinh-ca-tinh-ca"
   },
 ];
