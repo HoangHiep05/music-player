@@ -21,12 +21,6 @@ let allMusic = [
     src: "duyen-troi-lay-2"
   },
   {
-    name: "100 years love",
-    artist: "NamDuc",
-    img: "100-years-love",
-    src: "100-years-love"
-  },
-  {
     name: "Chắc em đã quên rồi",
     artist: "Quang Chợ Lầm",
     img: "chac-em-da-quen-roi",
