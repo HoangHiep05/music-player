@@ -1,3 +1,12 @@
+// Để thêm bài nhạc mình sẽ them vào list sau
+
+//   {
+//     name: "Tên bài nhạc",
+//     artist: "Nghệ sĩ",
+//     img: "Tên ảnh định dạng .jpg trong project",
+//     src: "Link đường dẫn file nhạc đinh dạng .mp3"
+//   }
+
 let allMusic = [
   {
     name: "Kiếp má hồng - speed up",
@@ -22,5 +31,17 @@ let allMusic = [
     artist: "Kis",
     img: "tinh-ca-tinh-ca",
     src: "tinh-ca-tinh-ca"
+  },
+  {
+    name: "Buồn không thể buông - speed up",
+    artist: "##",
+    img: "buon-khong-the-buong",
+    src: "buon-khong-the-buong"
+  },
+  {
+    name: "Shay nắng - speed up",
+    artist: "Amee x Obito",
+    img: "shay-nang",
+    src: "shay-nang"
   },
 ];
