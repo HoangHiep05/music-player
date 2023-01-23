@@ -39,9 +39,21 @@ let allMusic = [
     src: "buon-khong-the-buong"
   },
   {
+    name: "Thiên thần tình yêu - speed up",
+    artist: "Ricky Star",
+    img: "thien-than-tinh-yeu",
+    src: "thien-than-tinh-yeu"
+  },
+  {
     name: "Shay nắng - speed up",
     artist: "Amee x Obito",
     img: "shay-nang",
     src: "shay-nang"
+  },
+  {
+    name: "Don't côi - speed up",
+    artist: "RPT Orijinn x Ronboogz",
+    img: "don't-coi",
+    src: "don't-coi"
   },
 ];
