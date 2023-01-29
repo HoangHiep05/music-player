@@ -23,6 +23,12 @@
       isRepeat: false,
       songs: [
         {
+          name: '2AM - speed up',
+          singer: 'JustaTee x BigDaddy x Enderlazer',
+          path: './music/2am.mp3',
+          image: './music/2am.jpg',
+        },
+        {
           name: 'Anh đâu có hay - speed up',
           singer: 'LEMESE X AUGUST',
           path: './music/anh-dau-co-hay.mp3',
