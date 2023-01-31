@@ -23,6 +23,12 @@
       isRepeat: false,
       songs: [
         {
+          name: '4 mùa thương em - speed up',
+          singer: 'LẬP NGUYÊN ft. NIGHT T x YẾN NỒI CƠM ĐIỆN',
+          path: './music/4-mua-thuong-em.mp3',
+          image: './music/4-mua-thuong-em.jpg',
+        },
+        {
           name: '2AM - speed up',
           singer: 'JustaTee x BigDaddy x Enderlazer',
           path: './music/2am.mp3',
