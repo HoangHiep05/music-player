@@ -23,6 +23,12 @@
       isRepeat: false,
       songs: [
         {
+          name: 'Em là - speed up',
+          singer: 'Mono',
+          path: './music/em-la.mp3',
+          image: './music/em-la.jpg',
+        },
+        {
           name: '4 mùa thương em - speed up',
           singer: 'LẬP NGUYÊN ft. NIGHT T x YẾN NỒI CƠM ĐIỆN',
           path: './music/4-mua-thuong-em.mp3',
