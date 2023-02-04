@@ -23,6 +23,12 @@
       isRepeat: false,
       songs: [
         {
+          name: 'Cherry Love - speed up',
+          singer: 'Híu',
+          path: './music/cherry-love.mp3',
+          image: './music/cherry-love.jpg',
+        },
+        {
           name: 'Em là - speed up',
           singer: 'Mono',
           path: './music/em-la.mp3',
@@ -34,12 +40,12 @@
           path: './music/4-mua-thuong-em.mp3',
           image: './music/4-mua-thuong-em.jpg',
         },
-//         {
-//           name: '2AM - speed up',
-//           singer: 'JustaTee x BigDaddy x Enderlazer',
-//           path: './music/2am.mp3',
-//           image: './music/2am.jpg',
-//         },
+        {
+          name: '2AM - speed up',
+          singer: 'JustaTee x BigDaddy x Enderlazer',
+          path: './music/2am.mp3',
+          image: './music/2am.jpg',
+        },
         {
           name: 'Anh đâu có hay - speed up',
           singer: 'LEMESE X AUGUST',
